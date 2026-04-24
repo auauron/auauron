@@ -24,27 +24,18 @@ I build high-performance Web and Mobile applications with a focus on SaaS archit
 
 ### 📈 Development Metrics
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=auauron&theme=tokyonight&hide_border=true&show_icons=true" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=auauron&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=auauron&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=auauron&theme=tokyonight&hide_border=true&show_icons=true" width="380" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=auauron&theme=tokyonight&hide_border=true&layout=compact" width="300" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=auauron&theme=tokyonight&hide_border=true" width="380" />
+</p>
 
 ---
 
 ### ⚡ Quick Bytes
 * 🏆 **Hackathon Champion:** Proven ability to build MVP-ready products under pressure.
-* 🛠️ **Fullstack Versatility:** Transitioning seamlessly between React Native mobile builds and PostgreSQL database architecture.
+* 🛠️ **Fullstack Versatility:** Transitioning from React Native mobile builds to PostgreSQL architecture.
 * 🎓 **Academic:** Proudly representing Central Philippine University.
 * 🕹️ **Interests:** Exploring game logic with Godot and optimizing CI/CD workflows.
 
