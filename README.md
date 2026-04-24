@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 Ahron John Alera
-### **Software Engineer • Fullstack Developer 
+# Ahron John Alera
+**Software Engineer • Fullstack Developer**
 **Central Philippine University | 2nd Year BSSE**
 
 [![linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
@@ -39,10 +39,6 @@ I am a Fullstack Developer with a track record of winning hackathon championship
 
 ---
 
-### ⚡ QUICK BYTES
-**🏆 Champion Mentality:** Proven ability to build MVP-ready products under high pressure.
-**🛠️ Fullstack Depth:** Bridging the gap between high-fidelity React interfaces and scalable, complex database schemas.
-**🎓 CPU Proud:** Representing the Central Philippine University engineering community.
 
 <br/>
 
