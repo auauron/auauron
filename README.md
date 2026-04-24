@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahron John Alera
+# HI, I am Ahron John Alera
 **Software Engineer • Fullstack Developer**
 **Central Philippine University | 2nd Year BSSE**
 
