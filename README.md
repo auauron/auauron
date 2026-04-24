@@ -3,7 +3,7 @@
 # Hey, I'm AHRON JOHN ALERA
 **SOFTWARE ENGINEER • FULLSTACK DEVELOPER**
 <br>
-**CENTRAL PHILIPPINE UNIVERSITY | 2nd YEAR BSSE**
+**CENTRAL PHILIPPINE UNIVERSITY | Bachelof of Science in Software Engineering**
 
 [![linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auauron)
