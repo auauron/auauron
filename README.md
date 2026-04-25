@@ -83,6 +83,7 @@ Most of my experience comes from:
 ## 🚧 Currently
 
 - Building fullstack apps with modern TypeScript stacks  
-- Exploring scalable frontend patterns  
-- Improving backend performance & system design
-- Exploring new frameworks and tech tools  
+- Improving backend performance & system design  
+- Interested in exploring game development   
+- Exploring new frameworks and emerging technologies  
+- Adapting quickly to AI-driven development trends and integrating AI tools into workflows  
